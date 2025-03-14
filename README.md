@@ -1,7 +1,5 @@
 # CyclopsCrashout
 
-![Screenshot 2025-03-14 001543](https://github.com/user-attachments/assets/ef0d0b2f-134e-4fa5-958e-00a528ccfc9e)
-
 ![Screenshot 2025-03-14 223808](https://github.com/user-attachments/assets/8ee1bcae-3f64-498a-99fc-df9437c6a5e3)
 
 https://moltorubato.itch.io/cyclops-crashout
