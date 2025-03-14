@@ -3,6 +3,7 @@
 ![Screenshot 2025-03-14 223808](https://github.com/user-attachments/assets/8ee1bcae-3f64-498a-99fc-df9437c6a5e3)
 
 🔗 Itch.io Store Page: (https://moltorubato.itch.io/cyclops-crashout)
+(File is too big for Github)
 
 ## Overview  
 A two-player fighting game where a wandering knight clashes with an ancient Cyclops warrior in a legendary duel. Battle for victory as steel meets monstrous strength.  
